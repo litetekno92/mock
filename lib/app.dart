@@ -1,5 +1,4 @@
 import 'package:mock/drawer.dart';
-//import 'package:mock/MessageList.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
