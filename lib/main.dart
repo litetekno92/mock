@@ -1,10 +1,10 @@
-import 'package:emailapp/App.dart';
-import 'package:emailapp/MessageList.dart';
+import 'package:mock/app.dart';
+//import 'package:emailapp/MessageList.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(EmailApp());
+void main() => runApp(MockApp());
 
-class EmailApp extends StatelessWidget {
+class MockApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
